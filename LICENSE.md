@@ -1,4 +1,4 @@
-#  
+#  new Script for fisch it offers the most advanced fisch it Script, with god mode and infinite resources. Perfect for dominating any match.
 
 
 
